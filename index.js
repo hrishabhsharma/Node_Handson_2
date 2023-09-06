@@ -31,7 +31,7 @@ const data  = [{
         "1": "Netflix ",
         "2": "IBM",
         "3": "ebay",
-        "4": "Uber"
+        "4": "Uberasad"
     }
 }]
 api.get('/',(req,res)=>{
